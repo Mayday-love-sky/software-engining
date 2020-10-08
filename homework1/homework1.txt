@@ -1,3 +1,5 @@
 #git 的使用
 第一次提交
 我将使用git fetch功能（之前是git pull）
+使用git merge将差异合并
+使用git push推到github上
