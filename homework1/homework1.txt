@@ -3,3 +3,8 @@
 我将使用git fetch功能（之前是git pull）
 使用git merge将差异合并
 使用git push推到github上
+在testbranch分支上多次操作
+操作1
+操作2
+操作3
+我们需要切回master分支
